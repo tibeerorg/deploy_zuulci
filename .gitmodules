@@ -1,0 +1,4 @@
+[submodule "ansible/roles/ansible_role_zuulci"]
+	path = ansible/roles/ansible_role_zuulci
+	url = git@github.com:tibeerorg/ansible_role_zuulci.git
+	branch = main
